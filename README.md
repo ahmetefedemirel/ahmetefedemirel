@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ahmetefedemirel
+- 👀 I’m interested in software, technolohy, science.
+- 🌱 I’m currently learning python
+- 📫 How to reach me that my email: ahmetefeed@gmail.com
+- 😄 Pronouns: Student
