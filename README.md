@@ -15,7 +15,7 @@
 ---
 
 ### 📊 GitHub İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetefedemirel.com&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetefedemirel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetefedemirel&layout=compact&theme=tokyonight)
 
 ---
